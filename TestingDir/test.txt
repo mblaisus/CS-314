@@ -1,2 +1,3 @@
 Just me messing around to figure out git
 new change to file from rebase_test
+new change to file from rebase_test
